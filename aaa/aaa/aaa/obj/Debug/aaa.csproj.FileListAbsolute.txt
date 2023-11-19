@@ -1,0 +1,8 @@
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\bin\Debug\aaa.exe.config
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\bin\Debug\aaa.exe
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\bin\Debug\aaa.pdb
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\aaa.csproj.AssemblyReference.cache
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\aaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\aaa.csproj.CoreCompileInputs.cache
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\aaa.exe
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\aaa.pdb

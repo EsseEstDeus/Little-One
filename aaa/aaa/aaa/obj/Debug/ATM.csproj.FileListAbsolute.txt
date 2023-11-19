@@ -1,0 +1,24 @@
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\bin\Debug\aaa.exe.config
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\bin\Debug\aaa.exe
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\bin\Debug\aaa.pdb
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\aaa.exe
+C:\Users\Burak Alkan\Desktop\C# Dosyaları\aaa\aaa\obj\Debug\aaa.pdb
+C:\Users\User\Desktop\aaa\aaa\bin\Debug\aaa.exe.config
+C:\Users\User\Desktop\aaa\aaa\bin\Debug\aaa.exe
+C:\Users\User\Desktop\aaa\aaa\bin\Debug\aaa.pdb
+C:\Users\User\Desktop\aaa\aaa\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\aaa\aaa\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\aaa\aaa\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\aaa\aaa\obj\Debug\aaa.exe
+C:\Users\User\Desktop\aaa\aaa\obj\Debug\aaa.pdb
+C:\Users\User\Desktop\aaa\aaa\aaa\bin\Debug\aaa.exe.config
+C:\Users\User\Desktop\aaa\aaa\aaa\bin\Debug\aaa.exe
+C:\Users\User\Desktop\aaa\aaa\aaa\bin\Debug\aaa.pdb
+C:\Users\User\Desktop\aaa\aaa\aaa\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\aaa\aaa\aaa\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\aaa\aaa\aaa\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\aaa\aaa\aaa\obj\Debug\aaa.exe
+C:\Users\User\Desktop\aaa\aaa\aaa\obj\Debug\aaa.pdb
